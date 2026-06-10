@@ -4,6 +4,7 @@
       <el-menu-item index="/">刷题</el-menu-item>
       <el-menu-item index="/knowledge">知识点</el-menu-item>
       <el-menu-item index="/statistics">学习统计</el-menu-item>
+      <el-menu-item index="/visual">可视化</el-menu-item>
     </el-menu>
     <router-view />
   </div>
